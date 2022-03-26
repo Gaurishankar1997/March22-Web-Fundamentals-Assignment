@@ -1,0 +1,10 @@
+#frm{
+    background-color: yellowgreen;
+    padding: 20px;
+    width: fit-content;
+}
+
+#btn{
+    background-color: rgb(0, 102, 255);
+    border-radius: 20px;
+}
