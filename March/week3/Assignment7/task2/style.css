@@ -1,0 +1,12 @@
+#frm{
+    background-color: gold;
+    height:auto;
+    width: fit-content;
+    height: fit-content;
+    padding: 20px;
+
+}
+#btn{
+    border-radius: 15px;
+    background-color: rgb(100, 100, 199);
+}
