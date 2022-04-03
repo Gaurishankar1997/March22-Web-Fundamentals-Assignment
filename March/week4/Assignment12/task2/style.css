@@ -1,0 +1,14 @@
+div{
+    border: 1px;
+    height:50vh;
+    width: 50vh;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+img{
+    max-height: 60%;
+    min-width: 60%;
+    object-fit: cover;
+    vertical-align: bottom;
+}

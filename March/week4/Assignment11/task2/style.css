@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    padding:50px 100px;
+    background-color:#007065 ;
+}
+.div1{
+    height:0;
+    width: 0;
+    border:100px solid transparent;
+    border-top: 0;
+    border-bottom: 100px solid #FFEECF;
+    position: relative;
+    z-index: 15;
+
+}
+.div2{
+    height:0;
+    width: 0;
+    border:100px solid transparent;
+    border-top: 0;
+    border-bottom: 100px solid  #F5C181;
+    position: relative;
+    bottom: 50px;
+    z-index: 10;
+
+}
+.div3{
+    height:0;
+    width: 0;
+    border:100px solid transparent;
+    border-top: 0;
+    border-bottom: 100px solid #00A79D;
+    position: relative;
+    bottom: 100px;
+    z-index: 5;
+
+}

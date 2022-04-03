@@ -1,0 +1,79 @@
+body {
+    background: url("https://www.dreamstime.com/beautiful-winter-landscape-scene-background-snow-covered-trees-iced-river-beauty-sunny-winter-backdrop-wonderland-frosty-image126334122");
+}
+
+#mainContainer {
+    height: 100vh;
+    
+}
+
+#container {
+
+    width: 400px;
+
+    margin: auto;
+}
+#section{
+    width: 400px;
+    background-color: rgb(145, 135, 47);
+}
+nav{
+    width: 400px;
+    height: 40px;
+    border-radius: 2px;
+    background-color: rgb(206, 200, 148);
+   
+}
+
+
+a{
+    font-size: 20px;
+    padding:0px 40px;
+    text-decoration: none;
+ 
+
+}
+a:hover{
+    color: rgb(29, 108, 78);
+}
+
+img {
+    border-radius: 50%;
+    padding: 10px;
+}
+
+#imgDiv {
+    text-align: center;
+}
+
+#pDiv {
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+    color: cornsilk;
+}
+
+#tableDiv {
+    padding: 10px;
+}
+
+#btnDiv {
+    text-align: center;
+
+}
+
+button {
+    padding: 10px;
+    border: none;
+    background-color: rgb(220, 226, 255);
+    border-radius: 10px;
+    width: 30%;
+    margin-right: 20px;
+}
+button:hover{
+    background-color: blueviolet;
+}
